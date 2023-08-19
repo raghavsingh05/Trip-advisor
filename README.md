@@ -1,3 +1,3 @@
 # Trip-advisor
 
-This Project helps in finding nearby hotel and Map
+This Project helps in finding nearby hotels and Map Using google map api
