@@ -1,3 +1,3 @@
 # Trip-advisor
 
-This Project helps in finding nearby hotels and Map Using google map API and traveling APIs 
+This Project helps find nearby hotels and maps using Google map API and traveling APIs. Additionally, it will display the directions to the location.
